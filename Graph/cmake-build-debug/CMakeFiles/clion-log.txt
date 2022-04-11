@@ -1,0 +1,4 @@
+/home/br14n/Program/clion-2021.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/br14n/CLionProjects/MyProject/Repo/DataStructure/Graph
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/br14n/CLionProjects/MyProject/Repo/DataStructure/Graph/cmake-build-debug
