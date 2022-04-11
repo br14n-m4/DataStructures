@@ -8,8 +8,9 @@ int main() {
     for (int i: a)
         A.insert(i);
     A.print_inorder();
-    std::cout << "root: " <<A.root->info;
-    std::cout << "\n" <<A.leaftcount() <<"\n";
+    std::cout << "\nRoot:"
+              << A.root->info;
+    std::cout << "\nLeaf Count: " <<A.leaftcount() <<"\n";
 
 
     return 0;
