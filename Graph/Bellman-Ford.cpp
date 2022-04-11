@@ -3,7 +3,6 @@
 //
 #include <vector>
 #include <tuple>
-#define INF 100000000
 
 using std::vector, std::min, std::tie, std::tuple;
 vector<tuple<int, int, int>> edge_c;
